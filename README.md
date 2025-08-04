@@ -1,11 +1,11 @@
-<!-- README.md untuk profil ardannydev -->
+<!-- README.md untuk profil Ahmad Ramadhani -->
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <img src="https://avatars.githubusercontent.com/u/141151527?v=4" width="120" style="border-radius:50%;" alt="Ardanny Dev Avatar">
+      <img src="https://avatars.githubusercontent.com/u/141151527?v=4" width="120" style="border-radius:50%;" alt="Ahmad Ramadhani Avatar">
       <br>
-      <b>Ahmad Ramadhani/b>
+      <b>Ahmad Ramadhani</b>
       <br>
       <i>Creator Video Gaming</i>
     </td>
@@ -59,7 +59,7 @@
 
 ### 🛒 Project Utama
 
-- [**ARDANYSTORE**](https://github.com/ardannydev/ardannystore) — Website toko online pribadi
+**Private**
 
 ---
 
@@ -73,5 +73,4 @@
 ---
 
 <p align="center">
-  <b>© 2025 Ardanny Dev — Creator Video Gaming</b>
-</p>
+  <b>© 2025 Ahmad Ramadhani — Creator
