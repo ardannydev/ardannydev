@@ -12,33 +12,35 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ardaannyy/)
 [![Saweria](https://img.shields.io/badge/Saweria-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://saweria.co/danny62)
 
----
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0050&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile!;Enjoy+my+gaming+content!;Let's+code+and+play+together!" alt="Typing SVG" />
 
 ---
 
-## 🐾 Virtual Pet
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArtemShishko/markdown-pet/main/assets/cat.gif" width="100" alt="Virtual Cat Pet" />
-  <br>
-  <b>Ini kucing virtual yang selalu menemani coding & gaming saya!</b>
 </div>
+
+## 🐾 Teman Coding Virtual
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Cat Pet">  
+<sub><i>Kucing virtual selalu menemani saat coding & gaming!</i></sub>
 
 ---
 
-## 🕹️ Mini Game Interaktif
+## 🕹️ Mini Game & Interaksi
 
-> **Tebak Angka!**  
-> Saya sudah memilih angka antara 1-10.  
-> Klik salah satu angka di bawah ini untuk menebak (link akan membawa ke GIF reaksi):
+### 🎯 Checklist Progress Gaming
+- [x] Upload video baru
+- [ ] Live streaming minggu ini
+- [ ] Kolaborasi dengan creator lain
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|----|
-| [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎉](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | [🎲](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) |
+### 🚀 Level Up Progress
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
 
-<sub><i>Angka 5 adalah jawaban benar 🎉</i></sub>
+### 🏆 Achievement Badge
+![Achievement](https://img.shields.io/badge/Subscriber-10K-red?style=flat-square&logo=youtube)
+![Achievement](https://img.shields.io/badge/Top%20Game%20Clip-2025-blueviolet?style=flat-square)
+
+### 🔗 Main Mini Game Online
+[Coba main game mini di sini!](https://itch.io/games/tag-html5)
 
 ---
 
@@ -70,6 +72,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardannydev&theme=gruvbox" alt="GitHub Streak" />
 
 </div>
+
+---
+
+## 📬 Kontak & Sosial Media
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_HCI02Lu4sCLH2j7soRWQg)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@daannyy62)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ardaannyy/)
+[![Saweria](https://img.shields.io/badge/Saweria-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://saweria.co/danny62)
 
 ---
 
