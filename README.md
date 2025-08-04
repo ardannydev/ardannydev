@@ -5,14 +5,14 @@
     <td align="center" width="30%">
       <img src="https://avatars.githubusercontent.com/u/141151527?v=4" width="120" style="border-radius:50%;" alt="Ardanny Dev Avatar">
       <br>
-      <b>Ardanny Dev</b>
+      <b>Ahmad Ramadhani/b>
       <br>
       <i>Creator Video Gaming</i>
     </td>
     <td width="70%">
       <h2>👋 Halo, Selamat Datang!</h2>
       <p>
-        Saya <b>Ardanny Dev</b>, seorang <b>Web Developer</b> & <b>Content Creator</b> yang suka berbagi konten <b>gaming</b> dan teknologi.<br>
+        Saya <b>Ahmad Ramadhani</b>, seorang <b>Web Developer</b> & <b>Content Creator</b> yang suka berbagi konten <b>gaming</b> dan teknologi.<br>
         Temukan karya, video, dan project saya di bawah ini!
       </p>
       <p>
