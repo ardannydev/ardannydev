@@ -1,9 +1,3 @@
-<!-- README.md untuk profil Ahmad Ramadhani -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0050,100:0078d7&height=180&section=header&text=Ahmad%20Ramadhani&fontSize=45&fontAlignY=35&desc=Creator%20Video%20Gaming%20%7C%20Web%20Developer%20%7C%20Content%20Creator&descAlignY=60&descAlign=50" alt="banner"/>
-</p>
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/141151527?v=4" width="120" style="border-radius:50%;" alt="Ahmad Ramadhani Avatar">
 </p>
@@ -29,15 +23,11 @@
 
 ---
 
-## ✨ Tentang Saya
-
 - 🎮 Creator Video Gaming
 - 💻 Web Developer & Content Creator
-- 📫 Email: [ardaannyy@gmail.com](mailto:ardaannyy@gmail.com)
+- 📫 [ardaannyy@gmail.com](mailto:ardaannyy@gmail.com)
 
 ---
-
-## 🛒 Project Utama
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Utama-Tidak%20Ditampilkan%20Publik-9cf?style=for-the-badge&logo=github" alt="Private Project Badge"><br>
@@ -46,8 +36,6 @@
 
 ---
 
-## 📊 Statistik GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardannydev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -55,6 +43,4 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0050,100:0078d7&height=120&section=footer"/>
-  <br>
   <b>© 2025 Ahmad Ramadhani — Creator
