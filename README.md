@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0050&center=true&vCenter=true&width=450&lines=Welcome+to+my+world!;Let's+play+and+code+together!;Subscribe+for+gaming+content!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0050&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;Let's+play+and+code+together!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,32 +29,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Gaming gif">
-</div>
-
----
-
 ## ✨ Tentang Saya
 
-> 🎮 **Creator Video Gaming**  
-> 💻 Web Developer & Content Creator  
-> 🌱 Selalu belajar teknologi baru & berbagi konten gaming  
-> 📫 Email: [ardaannyy@gmail.com](mailto:ardaannyy@gmail.com)
-
----
-
-## 🚀 Tools & Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+- 🎮 Creator Video Gaming
+- 💻 Web Developer & Content Creator
+- 📫 Email: [ardaannyy@gmail.com](mailto:ardaannyy@gmail.com)
 
 ---
 
@@ -71,7 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardannydev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardannydev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -79,5 +57,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0050,100:0078d7&height=120&section=footer"/>
   <br>
-  <b>© 2025 Ahmad Ramadhani — Creator Video Gaming</b>
-</p>
+  <b>© 2025 Ahmad Ramadhani — Creator
