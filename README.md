@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0050&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;Let's+play+and+code+together!" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/channel/UC_HCI02Lu4sCLH2j7soRWQg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
@@ -43,4 +39,4 @@
 ---
 
 <p align="center">
-  <b>© 2025 Ahmad Ramadhani — Creator
+  <b>© 2025 Ahmad Ramadhani — Creator Video
